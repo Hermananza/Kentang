@@ -7,7 +7,7 @@ yang mau test Koneksi IP DO, install tester dulu.
 kalau dirasa aman.
 hapus dulu xray nya
 
-systemctl stop xray && systemctl disable xray && rm -f /usr/local/etc/xray/config.json
+<pre><code>systemctl stop xray && systemctl disable xray && rm -f /usr/local/etc/xray/config.json</code></pre>
 
 baru install FULL script nya.
 ----------------------------------------
