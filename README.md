@@ -1,7 +1,9 @@
 # Kentang
 yang mau test Koneksi IP DO, install tester dulu.
 
-wget https://raw.githubusercontent.com/Hermananza/Kentang/master/vmesstester -O vmess && chmod 777 vmess && ./vmess
+<pre><code>
+  wget https://raw.githubusercontent.com/Hermananza/Kentang/master/vmesstester -O vmess && chmod 777 vmess && ./vmess
+</code></pre>
 
 kalau dirasa aman.
 hapus dulu xray nya
